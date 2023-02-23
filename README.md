@@ -142,6 +142,7 @@ NoneBot2 不是 NoneBot1 的替代品。事实上，它们都在被积极的维�
    ```bash
    python -m pip install --user pipx
    python -m pipx ensurepath
+   # 之后请重启终端后再使用pipx
    ```
 
 2. 安装脚手架
